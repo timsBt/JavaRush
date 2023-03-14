@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Selenium/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+          <root url="jar://C:/Selenium/lib/auto-service-1.0.1.jar!/" />
+          <root url="jar://C:/Selenium/lib/auto-common-1.2.1.jar!/" />
+          <root url="jar://C:/Selenium/lib/async-http-client-2.12.3.jar!/" />
+          <root url="jar://C:/Selenium/lib/byte-buddy-1.12.22.jar!/" />
+          <root url="file://C:/Selenium/lib" />
+          <root url="jar://C:/Selenium/lib/auto-service-annotations-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/Selenium/selenium-api-4.8.1-sources.jar!/" />
+        </SOURCES>
+        <jarDirectory url="file://C:/Selenium/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Selenium/selenium-api-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-chrome-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-chromium-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v85-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v108-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v109-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v110-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-edge-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-firefox-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-http-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-ie-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-java-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-json-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-manager-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-remote-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-safari-driver-4.8.1.jar!/" />
+          <root url="jar://C:/Selenium/selenium-support-4.8.1.jar!/" />
+          <root url="file://$MODULE_DIR$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/Selenium/selenium-chrome-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-chromium-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v85-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v108-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v109-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-devtools-v110-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-edge-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-firefox-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-http-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-ie-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-json-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-manager-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-remote-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-safari-driver-4.8.1-sources.jar!/" />
+          <root url="jar://C:/Selenium/selenium-support-4.8.1-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
